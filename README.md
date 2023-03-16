@@ -61,3 +61,4 @@ A list of projects (ongoing and finished) with a connection to capabilities and 
 ## Companies and Academic Institutes
 A list of companies, university groups and other research institutions working in this field
 - Institute of Automation @ Helmut Schmidt University, Hamburg, Germany ([Website](https://www.hsu-hh.de/aut/))
+- Fraunhofer Institute for Experimental Software Engineering IESE, Kaiserslautern, Germany ([Website](https://www.iese.fraunhofer.de/en.html))
