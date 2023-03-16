@@ -45,8 +45,8 @@ In this section, software tools and demo applications are listed. These tools ma
 
 ## Publications
 This section contains papers to be highlighted because they are of a more general interest. This could be survey papers consolidating a lot of research, or papers especially pointing out challenges as well as papers with fundamental definitons. Please note however, that this list cannot track all papers in this research area 😉 
-- Malakuti et al. _Challenges in Skill-based Engineering of Industrial Automation Systems_ [DOI](http://dx.doi.org/10.1109/ETFA.2018.8502635) - Presents open challenges in capability-based engineering. Note that the term definition of "skill" doesn't match the current definition.
-- Froschauer et al. _Capabilities and Skills in Manufacturing: A Survey Over the Last Decade of ETFA_ [DOI](http://dx.doi.org/10.1109/ETFA52439.2022.9921560) - Survey paper covering research about capabilities and skills that was presented at IEEE ETFA conferences over the last 10 years.
+- Malakuti et al. _Challenges in Skill-based Engineering of Industrial Automation Systems_, 2018 [DOI](http://dx.doi.org/10.1109/ETFA.2018.8502635) - Presents open challenges in capability-based engineering. Note that the term definition of "skill" doesn't match the current definition.
+- Froschauer et al. _Capabilities and Skills in Manufacturing: A Survey Over the Last Decade of ETFA_, 2022 [DOI](http://dx.doi.org/10.1109/ETFA52439.2022.9921560) - Survey paper covering research about capabilities and skills that was presented at IEEE ETFA conferences over the last 10 years.
 
 ## Working Groups
 An overview on working groups working on capability and skill standardization
