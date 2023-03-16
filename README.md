@@ -6,7 +6,9 @@ A curated list of various resources related to machine Capabilties and Skills. I
 - **Capabilities** represent a description of the functions that a machine can potentially perform. This description may include possible inputs and outputs as well as constraints to further specify a capability's application. Capabilities are modeled using technologies such as Semantic Web Technologies, the Asset Administration Shell or similar information modeling technologies 
 - **Skills** on the other hand are an encapsulated implementation with an invocation interface. Think of a Skill like a web service. The actual implementation is often considered as a black box, while a so-called Skill Interface is provided to interact with a skill. A Skill's interface typically features a machine-interpretable description, too. In automation OPC UA is often used to implement a skill interface.
 
-For other Awesome Lists, checkout the [Awesome List Github Topic](https://github.com/topics/awesome-list)
+You can easily add something to this list by creating a pull request with your changes. Just edit the Readme.md file and propose your additions with a short explanation. There is also a [Wish List](https://github.com/aljoshakoecher/awesome-machine-capabilities-and-skills/issues/1) for things you would like to have but which are not on this list.
+
+If you don't know what an Awesome List is, see this [awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md).  And for other Awesome Lists, checkout the [Awesome List Github Topic](https://github.com/topics/awesome-list)
 
 <hr>
 
