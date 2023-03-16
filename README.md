@@ -1,4 +1,5 @@
-# Awesome Machine Capabilities and Skills [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Machine Capabilities and Skills [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
 A curated list of various resources related to machine Capabilties and Skills. In case you don't know what capabilities and skills in the context of manufacturing are:
 
 **Capabilities** and **Skills** aim at a machine-interpretable description and encapsulated implementation of automation functions. 
