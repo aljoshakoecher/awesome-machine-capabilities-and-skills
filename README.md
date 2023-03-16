@@ -45,8 +45,8 @@ In this section, software tools and demo applications are listed. These tools ma
 
 ## Publications
 This section contains papers to be highlighted because they are of a more general interest. This could be survey papers consolidating a lot of research, or papers especially pointing out challenges as well as papers with fundamental definitons. Please note however, that this list cannot track all papers in this research area 😉 
-- Malakuti et al. _Challenges in Skill-based Engineering of Industrial Automation Systems_, 2018 [DOI](http://dx.doi.org/10.1109/ETFA.2018.8502635) - Presents open challenges in capability-based engineering. Note that the term definition of "skill" doesn't match the current definition.
-- Froschauer et al. _Capabilities and Skills in Manufacturing: A Survey Over the Last Decade of ETFA_, 2022 [DOI](http://dx.doi.org/10.1109/ETFA52439.2022.9921560) - Survey paper covering research about capabilities and skills that was presented at IEEE ETFA conferences over the last 10 years.
+- Malakuti et al. _Challenges in Skill-based Engineering of Industrial Automation Systems_, 2018 - Presents open challenges in capability-based engineering. Note that the term definition of "skill" doesn't match the current definition. [![DOI](https://img.shields.io/badge/DOI-10.1109/ETFA.2018.8502635-blue)](http://dx.doi.org/10.1109/ETFA.2018.8502635)
+- Froschauer et al. _Capabilities and Skills in Manufacturing: A Survey Over the Last Decade of ETFA_, 2022 - Survey paper covering research about capabilities and skills that was presented at IEEE ETFA conferences over the last 10 years. [![DOI](https://img.shields.io/badge/DOI-10.1109/ETFA52439.2022.9921560-blue)](http://dx.doi.org/10.1109/ETFA52439.2022.9921560)
 
 ## Working Groups
 An overview on working groups working on capability and skill standardization
@@ -62,3 +62,4 @@ A list of projects (ongoing and finished) with a connection to capabilities and 
 A list of companies, university groups and other research institutions working in this field
 - Institute of Automation @ Helmut Schmidt University, Hamburg, Germany ([Website](https://www.hsu-hh.de/aut/))
 - Fraunhofer Institute for Experimental Software Engineering IESE, Kaiserslautern, Germany ([Website](https://www.iese.fraunhofer.de/en.html))
+- Christian Doppler Laboratory SQI @ TU Wien, Vienna, Austria ([Website](https://sqi.at))
