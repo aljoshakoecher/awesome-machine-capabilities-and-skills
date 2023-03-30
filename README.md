@@ -13,13 +13,13 @@ If you don't know what an Awesome List is, see this [awesome manifesto](https://
 <hr>
 
 ## Contents
-- [Standards & Specifications](https://github.com/aljoshakoecher/awesome-machine-capabilities-and-skills/main/README.md#standards--specifications)
-- [Models](https://github.com/aljoshakoecher/awesome-machine-capabilities-and-skills/main/README.md#models)
-- [Software Tools & Demos](https://github.com/aljoshakoecher/awesome-machine-capabilities-and-skills/main/README.md#software-tools--demos)
-- [Publications](https://github.com/aljoshakoecher/awesome-machine-capabilities-and-skills/main/README.md#publications)
-- [Working Groups](https://github.com/aljoshakoecher/awesome-machine-capabilities-and-skills/main/README.md#working-groups)
-- [Projects](https://github.com/aljoshakoecher/awesome-machine-capabilities-and-skills/main/README.md#projects)
-- [Companies and Academic Institutes](https://github.com/aljoshakoecher/awesome-machine-capabilities-and-skills/main/README.md#companies-and-academic-institutes)
+- [Standards & Specifications](https://github.com/aljoshakoecher/awesome-machine-capabilities-and-skills#standards--specifications)
+- [Models](https://github.com/aljoshakoecher/awesome-machine-capabilities-and-skills#models)
+- [Software Tools & Demos](https://github.com/aljoshakoecher/awesome-machine-capabilities-and-skills#software-tools--demos)
+- [Publications](https://github.com/aljoshakoecher/awesome-machine-capabilities-and-skills#publications)
+- [Working Groups](https://github.com/aljoshakoecher/awesome-machine-capabilities-and-skills#working-groups)
+- [Projects](https://github.com/aljoshakoecher/awesome-machine-capabilities-and-skills#projects)
+- [Companies and Academic Institutes](https://github.com/aljoshakoecher/awesome-machine-capabilities-and-skills#companies-and-academic-institutes)
 
 <hr>
 
@@ -57,6 +57,7 @@ An overview on working groups working on capability and skill standardization
 ## Projects
 A list of projects (ongoing and finished) with a connection to capabilities and skills
 - [ReCaM](https://cordis.europa.eu/project/id/680759) (11/2015 - 10/2018) - EU project about rapid reconfiguration of production systems through capability-based adaptation
+- [BaSys 4.0] (07/2016 - 06/2019) - German project funded by BMBF, in which a reference architectur for production systems in Industrie 4.0 was defined and an open source middleware (Eclipse BaSyx) was developed.
 
 ## Companies and Academic Institutes
 A list of companies, university groups and other research institutions working in this field
